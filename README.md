@@ -8,4 +8,7 @@
 ### Ref_annotation
 Folder containing transcriptomes annotation.
 
+### Clusters
+Folder containing the annotaation of all genes in each cluster of co-expression (per species).
+
 
