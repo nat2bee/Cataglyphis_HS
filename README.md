@@ -1,5 +1,5 @@
 # Data repository from the manuscripts:
-> <a href="https://www.authorea.com/users/400692/articles/512976-molecular-adaptations-to-heat-stress-in-the-thermophilic-ant-genus-cataglyphis?commit=fe0761ed55b87763328aefd12fb41e60a63b1015" title="Pre-print">[Pre-print]</a> **Molecular adaptations to heat stress in the thermophilic ant genus *Cataglyphis*** Authorea. March 10, 2021. doi: 10.22541/au.161539101.11937589/v1<br />
+> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16134" title="Published">[Molecular Ecology]</a> <a href="https://www.authorea.com/users/400692/articles/512976-molecular-adaptations-to-heat-stress-in-the-thermophilic-ant-genus-cataglyphis?commit=fe0761ed55b87763328aefd12fb41e60a63b1015" title="Pre-print">[Pre-print]</a> **Molecular adaptations to heat stress in the thermophilic ant genus *Cataglyphis*** Mol Ecol. 2021. doi: 10.1111/mec.16134<br />
 *Rémy Perez\*, Natalia de Souza Araujo\*, Matthieu Defrance and Serge Aron*<br />
 
 > **Facing lethal temperatures: heat shock response in desert and temperate ants** In prep. <br />
